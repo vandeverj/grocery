@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 
 [Shop For Groceries](Shop-For-Groceries.html)
+[Pay For Groceries](Pay-For-Groceries.html)
+[Make A Complaint](Make-A-Complaint.html)
 
 You can use the [editor on GitHub](https://github.com/vandeverj/grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
